@@ -16,7 +16,7 @@ I'm a **Full-Stack Web Developer** passionate about building scalable and mainta
 - 📧 Email: [lawrenceobi2@gmail.com](mailto:lawrenceobi2@gmail.com)
 - 🧭 Let's connect and build something awesome!
 
-[![GitHub Trends](https://api.githubtrends.io/user/svg/LorenzoChukwuebuka/langs)](https://githubtrends.io)
+[![GitHub Trends](https://api.githubtrends.io/user/svg/LorenzoChukwuebuka/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 <!---
 LorenzoChukwuebuka/LorenzoChukwuebuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
